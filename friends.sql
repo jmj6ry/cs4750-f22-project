@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS friends ( 
+	name VARCHAR(35) NOT NULL,
+	major VARCHAR(20) NOT NULL,
+    `year` INT NOT NULL
+);
