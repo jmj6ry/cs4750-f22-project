@@ -33,7 +33,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
 <div class="container">
   <h1>Creat Your Account Below</h1>  
 
-<form name="mainForm" action="createAccount.php" method="post">   
+<form name="mainForm" action="nextPage.html" method="post">   
   <div class="row mb-3 mx-3">
     Enter Username:
     <input type="text" class="form-control" name="username" maxlength="20" required/>            
